@@ -73,7 +73,7 @@ ChatGPT · Claude Code · Antigravity
 ## 🤝 Connect With Me
 
 <div align="center">
-<a href="https://www.linkedin.com/in/sahil-nadaf/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0b1220" alt="LinkedIn" /></a>
+<a href="[https://www.linkedin.com/in/sahil-nadaf/](https://www.linkedin.com/in/sahil-nadaf-a3539a2bb?utm_source=share_via&utm_content=profile&utm_medium=member_android)"><img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0b1220" alt="LinkedIn" /></a>
 <a href="mailto:sahil.nadaf.tech@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7dd3fc?style=for-the-badge&logo=gmail&logoColor=0b1220" alt="Email" /></a>
 </div>
 
